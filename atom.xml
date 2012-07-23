@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[yulrizka]]></title>
+  <link href="http://yulrizka.github.com/blog/atom.xml" rel="self"/>
+  <link href="http://yulrizka.github.com/blog/"/>
+  <updated>2012-07-24T01:11:42+02:00</updated>
+  <id>http://yulrizka.github.com/blog/</id>
+  <author>
+    <name><![CDATA[Ahmy yulrizka]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Biaya perhitungan listrik 2010]]></title>
+    <link href="http://yulrizka.github.com/blog/2011/01/biaya-perhitungan-listrik-2010/"/>
+    <updated>2011-01-08T05:58:17+01:00</updated>
+    <id>http://yulrizka.github.com/blog/2011/01/biaya-perhitungan-listrik-2010</id>
+    <content type="html"><![CDATA[<p>Barusan saya kaget melihat tagihan listrik yang cukup. Mulai juni 2010 kalau tidak salah terjadi perubahan dalam perhitungan penggunaan listrik. Sekarang tidak ada lagi biaya beban melainkan adanya biaya minimum.</p>
+
+<p>tabel perhitungan lengkap dapat dilihat <a href="http://www.pln.co.id/pro00/images/stories/TDL/Permen_ESDM_07_2010.pdf">disini</a></p>
+
+<p>Biaya minimum itu ditetapkan untuk penggunaan rumah dengan rumus sebagai berikut</p>
+
+<p>40 (jam) x daya x biaya pemakaian misal untuk rumah saya R1/1300 perhitunganya adalah</p>
+
+<p>40/1000  x 1300 x 790 = Rp. 41.080</p>
+
+<p>apabila listrik tidak dipakai atau pemakaian masih dibawah 40 jam  maka tagihannya adalah sebesar 41.080</p>
+
+<p>apabila pemakaian lebih dari itu, maka cukup dihitung dengan (daya 1300 untuk yang lain lihat pada tabel diatas)</p>
+
+<p>[jumlah selisih stand meter dengan bulan lalu] x Rp. 790</p>
+
+<p>namun selain dari komponen pemakaian . Ternyata ada biaya lain yang dibebankan pengguna yaitu :</p>
+
+<ol>
+<li><p>Pajak penerangan jalanan. jumlahnya adalah sebesar 6% dari tagihan</p></li>
+<li><p>Biaya materai. Rp. 3000 untuk tagihan diatas 250.000 dan Rp. 6000 untuk tagihan diatas 1jt</p></li>
+</ol>
+
+
+<p>Contoh :</p>
+
+<p>Daya : R1/1300</p>
+
+<p>Pencatatan Stand bulan lalu : 21548</p>
+
+<p>Pencatatan Stand bulan ini : 21960</p>
+
+<p>Pemakaian listrik = 21960 - 21548 = 412</p>
+
+<p>Biaya pemakaian listrik = 412 x Rp. 790 = <strong>Rp. 325. 480</strong></p>
+
+<p>Biaya Pajak penerangan jalanan = 6% x Rp. 325.480 = Rp. 19.528,8 dibulatkan jadi <strong>Rp. 19.529</strong></p>
+
+<p>Biaya materai (karena > Rp. 250. 000) = <strong>Rp 3.000</strong></p>
+
+<p>Total : Rp. 325. 480 + Rp. 19.529 + Rp 3.000 = <strong>Rp. 348.009</strong></p>
+
+<p>Sedikit pengalaman. Karena jarang berada di rumah, maka petugas yang datang untuk mencatat pemakaian listrik sering kali tidak dapat melihat stand meter karena posisinya didalam. Petugas tersebut sering kali mengira stand meter tersebut. Mungkin ia melihat rata-rata pemakaian bulan-bulan sebelumnya. Karena rumah ini rumah kontrakan maka mungkin tagihan bulan sebelumnya tidak signifikan. Dalam beberapa 3 bulan terakhir pemakaian listrik dicatat rata2 jauh dibawah 52 kWh. ini sangat merugikan.. karena pemakaian listrik yang sebenarnya memang lebih dari 52 kWh, tetapi yang tercatat jauh dibawah 52 kWh, tetapi saya tetap harus membayar 52 kWh. Dan hal ini tidak bisa di perdebatkan karena saya sendiri juga tidak mencatat pemakaian listrik selama 3 bulan terakhir. alhasil setelah 3 bulan maka tagihan pun menumpuk .. seperti perhitungan diatas, sampai <strong>348.009</strong>. Padahal pemaikan perbulan mungkin sekitar Rp. 100.000</p>
+
+<p>Untuk menghindari hal diatas, maka sebaiknya kita mencatat pemakaian listrik dan memajang informasi tersebut di tempat yang dapat dilihat oleh petugas pencatatan listrik. Jika di kawasan Cigadung, petugas tersebut biasa datang pada tanggal 26-28 setiap bulannya. Adabaiknya sebelum petugas tersebut datang kita memasang informasi Listrik (dan juga air) dalam papan yang dapat dilihat dengan mudah oleh petugas tersebut. Papan ini juga dapat di beli di supermarket. Untuk papan yang kualitas cukup bagus harganya berkisar antara 20 sampai 40 ribu rupiah</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[BNI ITB virtual account BNI ITB virtual account untuk pembayaran SPP dll]]></title>
+    <link href="http://yulrizka.github.com/blog/2010/12/bni-itb-virtual-account-2/"/>
+    <updated>2010-12-29T08:52:42+01:00</updated>
+    <id>http://yulrizka.github.com/blog/2010/12/bni-itb-virtual-account-2</id>
+    <content type="html"><![CDATA[<p>Untuk pembayaran biaya SPP ITB, Biaya wisuda dll bisa melalui rekening virtual BNI.</p>
+
+<p>Barusan berjalan di koridor gedung ITB, ada beberapa standing banner yang menginformasikan adanya virtual account untuk melakukan pembayaran</p>
+
+<p>Namun disitu tidak dikatakan informasi mengenai autodebet.</p>
+
+<p>Berikut adalah copy-paste dari pengumuman tersebut.</p>
+
+<p><strong> Perhatian</strong>: Penulis tidak memiliki afiliasi terhadap BNI ataupun ITB. Informasi ini didapat dari membaca pamflet pada koridor labetek V lantai II. Oleh karena itu Penulis tidak bertanggung jawab atas kerugian yang diderita oleh pembaca mengenai informasi ini. Dengan membaca artikel ini, pembaca bertanggung jawab secara penuh terhadap transaksi yang akan dilakukan. Apabila diperlukan, mohon pembaca  untuk melakukan konfirmasi ke BNI melalui telepon yang dapat dilihat pada situs resmi BNI http://www.bni.co.id/</p>
+
+<p>PENGUMUMAN</p>
+
+<p>Ditujukan bagi para Mahasiswa Program Sarjana, Magister dan Doktor  yang akan melakukan pembayaran Biaya Penyelenggaraan Pendidikan (BPP)</p>
+
+<p>Dengan ini kami informasikan kepada para mahasiswa hal-hal sebagai berikut :</p>
+
+<ol>
+<li><p>Untuk mempermudah ITB dalam melakukan identifikasi pembayaran uang  BPP dari para mahasiswa maka ITB bekerjasama dengan PT. Bank Negara  Indonesia (Persero) Tbk. membuatkan masing-masing mahasiswa nomor  Virtual Account berdasarkan NIM dan Jenis pembayarannya.</p></li>
+<li><p>Dalam setiap transaksi pembayaran, mahasiswa cukup mencantumkan  nomor virtual account yang sudah mewakili nomor rekening tujuan  pembayaran BPP yang ada di BNI. Dengan virtual account ini pembayaran  BPP akan mudah dikenali oleh pihak ITB</p></li>
+<li><p>Nomor virtual mahasiswa terdiri dari 16 digit angka ng terdiri dari:</p></li>
+<li><p>3 Digit pertama merupakan kode virtual account BNI yaitu 988.</p></li>
+<li><p>5 Digit berikutnya merupakan nomor jenis transaksi yang dibedakan berdasarkan semester dan tahun akademik</p></li>
+<li><ul>
+<li><p>00110 maksudnya = Semester 1 tahun akademik 2010/2011</p></li>
+<li><p>00210 maksudnya = Semester 2 tahun akademik 2010/2011</p></li>
+<li><p>00310 maksudnya = BPP Semester Pendek tahun akademik 2010/2011</p></li>
+<li><p>00410 maksudnya = Biaya Wisuda 2010</p></li>
+<li><p>00510 maksudnya = BPM 2010/2011</p></li>
+<li><p>00066 maksudnya = Biaya perlengkapan</p></li>
+<li><p>00111 maksudnya = Semester 1 tahun akademik 2011/2012</p></li>
+<li><p>00211 maksudnya = Semester 1 tahun akademik 2011/2012</p></li>
+<li><p>dst&#8230;</p></li>
+</ul>
+</li>
+</ol>
+
+
+<p>Pastikan juga Format nama pemilik nomor rekening tujuan sesuai dengan format nama_mahasiswa (nama_pembayaran)</p>
+
+<h3><strong>988   00110</strong> 10110010</h3>
+
+<p><strong>nomor jenis transaksi</strong> <strong>No. Nim</strong></p>
+
+<p>Contoh 1 :</p>
+
+<p>Mahasiswa bernama Ahman mempunyai NIM 10110010 akan melakukan pembayaran  uang BPP Semester I tahun akademik 2010/2011 maka nomor Virtual Account  Mahasiswa ybs adalah 988 00110 10110010 an. <strong>Ahmad (BPP Sem I)</strong></p>
+
+<p>Contoh 2</p>
+
+<p>Mahasiswa bernama Abdul mempunyai NIM 12109735 akan melakukan pembayaran  uang BPP Semester II tahun akademik 2010/2011 maka nomor Virtual  Account mahasiswa ybs adalah 988 00210 12109735 an. <strong>Abdul (BPP Sem II)</strong></p>
+
+<p>Contoh 3</p>
+
+<p>Mahasiswa bernama Abdul mempunyai NIM 12109735 akan membayar biaya  wisuda tahun 2010 maka nomor Virtual Account mahasiswa ybs adalah 988  00410 12109735 an. <strong> Abdul (Biaya Wisuda 2010)</strong></p>
+
+<p>Sehingga dari contoh diatas seorang mahasiswa bisa mempunyai lebih  dair satu nomor rekening virtual yang dibedakan berdasarkan jenis  transaksinya, contohnya sbb:</p>
+
+<p><a href="http://ahmy.yulrizka.com/images/2010-12-29-bni-itb-virtual-account-2/Screen-shot-2010-12-29-at-2.47.59-PM.png"><img src="http://ahmy.yulrizka.com/images/2010-12-29-bni-itb-virtual-account-2/Screen-shot-2010-12-29-at-2.47.59-PM.png" alt="Gambar contoh rekening virtual" /></a></p>
+
+<ol>
+<li>Cara Pembayaran</li>
+</ol>
+
+
+<p><a href="http://ahmy.yulrizka.com/images/2010-12-29-bni-itb-virtual-account-2/Screen-shot-2010-12-29-at-12.40.13-PM.png"><img src="http://ahmy.yulrizka.com/images/2010-12-29-bni-itb-virtual-account-2/Screen-shot-2010-12-29-at-12.40.13-PM.png" alt="Gambar Cara pembayaran" /></a></p>
+
+<p><strong>Petunjuk Melalui ATM</strong>:</p>
+
+<p><strong>melalui Layanan ATM BNI :</strong></p>
+
+<ol>
+<li>Pilih Menu TRANSFER kemudian pilih REKENING yang akan di debit</li>
+</ol>
+
+
+<p><a href="http://ahmy.yulrizka.com/images/2010-12-29-bni-itb-virtual-account-2/Screen-shot-2010-12-29-at-12.53.58-PM1.png"><img src="http://ahmy.yulrizka.com/images/2010-12-29-bni-itb-virtual-account-2/Screen-shot-2010-12-29-at-12.53.58-PM1.png" alt="Gambar pilih rekening" /></a></p>
+
+<ol>
+<li>Pilih tujan transfer ke REKENING BNI, kemudian masukkan nomor Virtual Account sebagai nomor tagihan pembayaran uang kuliah Anda</li>
+</ol>
+
+
+<p><a href="http://ahmy.yulrizka.com/images/2010-12-29-bni-itb-virtual-account-2/Screen-shot-2010-12-29-at-1.09.27-PM.png"><img src="http://ahmy.yulrizka.com/images/2010-12-29-bni-itb-virtual-account-2/Screen-shot-2010-12-29-at-1.09.27-PM.png" alt="Gambar masukkan nomor rekening" /></a></p>
+
+<ol>
+<li>Masukkan jumlah nominal yang akan ditransfer, setelah muncul konfirmasi, dan jika benar tekan YA</li>
+</ol>
+
+
+<p><a href="http://ahmy.yulrizka.com/images/2010-12-29-bni-itb-virtual-account-2/Screen-shot-2010-12-29-at-1.01.37-PM.png"><img src="http://ahmy.yulrizka.com/images/2010-12-29-bni-itb-virtual-account-2/Screen-shot-2010-12-29-at-1.01.37-PM.png" alt="Gambar memasukan jumlah nominal" /></a></p>
+
+<ol>
+<li>Setelah transaksi berhasil dilakukan , maka bukti pembayaran akan dicetak pada mesin ATM</li>
+</ol>
+
+
+<p><a href="http://ahmy.yulrizka.com/images/2010-12-29-bni-itb-virtual-account-2/Screen-shot-2010-12-29-at-2.27.30-PM.png"><img src="http://ahmy.yulrizka.com/images/2010-12-29-bni-itb-virtual-account-2/Screen-shot-2010-12-29-at-2.27.30-PM.png" alt="Gambar bukti transfer ATM BNI" /></a></p>
+
+<p><strong>melalui Layanan ATM BNI :</strong></p>
+
+<ol>
+<li>Pilih Menu TRANSFER kemudian pilih REKENING yang akan di debit</li>
+</ol>
+
+
+<p><a href="http://ahmy.yulrizka.com/images/2010-12-29-bni-itb-virtual-account-2/Screen-shot-2010-12-29-at-12.53.58-PM1.png"><img src="http://ahmy.yulrizka.com/images/2010-12-29-bni-itb-virtual-account-2/Screen-shot-2010-12-29-at-12.53.58-PM1.png" alt="Gambar pilih rekening" /></a></p>
+
+<ol>
+<li>Pilih tujuan transfer ke REKENING BNI, kemudian masukkan kodebank dan nomor Virtual Account berdasarkan jenis transaksi dan NIM</li>
+</ol>
+
+
+<p><a href="http://ahmy.yulrizka.com/images/2010-12-29-bni-itb-virtual-account-2/Screen-shot-2010-12-29-at-2.20.52-PM.png"><img src="http://ahmy.yulrizka.com/images/2010-12-29-bni-itb-virtual-account-2/Screen-shot-2010-12-29-at-2.20.52-PM.png" alt="Gambar ATM bersama - masukkan no rekening" /></a></p>
+
+<ol>
+<li>Masukkan jumlah nominal yang akan ditransfer, setelah muncul konfirmasi dan jika benar tekan YA</li>
+</ol>
+
+
+<p><a href="http://ahmy.yulrizka.com/images/2010-12-29-bni-itb-virtual-account-2/Screen-shot-2010-12-29-at-1.37.47-PM.png"><img src="http://ahmy.yulrizka.com/images/2010-12-29-bni-itb-virtual-account-2/Screen-shot-2010-12-29-at-1.37.47-PM.png" alt="Gambar ATM bersama masukkan nominal" /></a></p>
+
+<ol>
+<li>Setelah transaksi berhasi dilakukan , maka bukti pembayaran akan dicetak pada mesin ATM</li>
+</ol>
+
+
+<p><a href="http://ahmy.yulrizka.com/images/2010-12-29-bni-itb-virtual-account-2/Screen-shot-2010-12-29-at-2.27.41-PM.png"><img src="http://ahmy.yulrizka.com/images/2010-12-29-bni-itb-virtual-account-2/Screen-shot-2010-12-29-at-2.27.41-PM.png" alt="Gambar bukti transfer ATM bersama" /></a></p>
+
+<p>Sumber: Standing banner di labtek V lantai II. (banner yang sama di temukan di beberapa lokasi ITB)</p>
+
+<ol>
+<li><p>Banner</p></li>
+<li><p><a href="http://ditkeu.itb.ac.id/files/web/2fe5a2_Peng%20BPP%20SEM%20II%2020102011.pdf">Pengumuman dirdik</a></p></li>
+</ol>
+
+]]></content>
+  </entry>
+  
+</feed>
