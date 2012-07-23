@@ -1,111 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>yulrizka</title>
-  <meta name="author" content="Ahmy yulrizka">
-
-  
-  <meta name="description" content="Barusan saya kaget melihat tagihan listrik yang cukup. Mulai juni 2010 kalau tidak salah terjadi perubahan dalam perhitungan penggunaan listrik. &hellip;">
-  
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  
-  <link rel="canonical" href="http://yulrizka.github.com/blog/">
-  <link href="/blog/favicon.png" rel="icon">
-  <link href="/blog/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <script src="/blog/javascripts/modernizr-2.0.js"></script>
-  <script src="/blog/javascripts/ender.js"></script>
-  <script src="/blog/javascripts/octopress.js" type="text/javascript"></script>
-  <link href="/blog/atom.xml" rel="alternate" title="yulrizka" type="application/atom+xml">
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
-  
-  <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-22308054-1']);
-    _gaq.push(['_trackPageview']);
-
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
-
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/blog/">yulrizka</a></h1>
-  
-    <h2>There is no intention to brag.</h2>
-  
-</hgroup>
-
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/blog/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="http://google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:yulrizka.github.com/blog" />
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/blog/">Blog</a></li>
-  <li><a href="/blog/blog/archives">Archives</a></li>
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div class="blog-index">
-  
-  
-  
-    <article>
-      
-  <header>
+  <title><![CDATA[yulrizka]]></title>
+  <link href="http://yulrizka.github.com/blog/atom.xml" rel="self"/>
+  <link href="http://yulrizka.github.com/blog/"/>
+  <updated>2012-07-24T00:51:04+02:00</updated>
+  <id>http://yulrizka.github.com/blog/</id>
+  <author>
+    <name><![CDATA[Ahmy yulrizka]]></name>
     
-      <h1 class="entry-title"><a href="/blog/2011/01/biaya-perhitungan-listrik-2010/">Biaya Perhitungan Listrik 2010</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
-
-
-<time datetime="2011-01-08T05:58:17+01:00" pubdate data-updated="true">08 Jan 2011</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Barusan saya kaget melihat tagihan listrik yang cukup. Mulai juni 2010 kalau tidak salah terjadi perubahan dalam perhitungan penggunaan listrik. Sekarang tidak ada lagi biaya beban melainkan adanya biaya minimum.</p>
+  <entry>
+    <title type="html"><![CDATA[Biaya perhitungan listrik 2010]]></title>
+    <link href="http://yulrizka.github.com/blog/2011/01/biaya-perhitungan-listrik-2010/"/>
+    <updated>2011-01-08T05:58:17+01:00</updated>
+    <id>http://yulrizka.github.com/blog/2011/01/biaya-perhitungan-listrik-2010</id>
+    <content type="html"><![CDATA[<p>Barusan saya kaget melihat tagihan listrik yang cukup. Mulai juni 2010 kalau tidak salah terjadi perubahan dalam perhitungan penggunaan listrik. Sekarang tidak ada lagi biaya beban melainkan adanya biaya minimum.</p>
 
 <p>tabel perhitungan lengkap dapat dilihat <a href="http://www.pln.co.id/pro00/images/stories/TDL/Permen_ESDM_07_2010.pdf">disini</a></p>
 
@@ -150,42 +63,15 @@
 <p>Sedikit pengalaman. Karena jarang berada di rumah, maka petugas yang datang untuk mencatat pemakaian listrik sering kali tidak dapat melihat stand meter karena posisinya didalam. Petugas tersebut sering kali mengira stand meter tersebut. Mungkin ia melihat rata-rata pemakaian bulan-bulan sebelumnya. Karena rumah ini rumah kontrakan maka mungkin tagihan bulan sebelumnya tidak signifikan. Dalam beberapa 3 bulan terakhir pemakaian listrik dicatat rata2 jauh dibawah 52 kWh. ini sangat merugikan.. karena pemakaian listrik yang sebenarnya memang lebih dari 52 kWh, tetapi yang tercatat jauh dibawah 52 kWh, tetapi saya tetap harus membayar 52 kWh. Dan hal ini tidak bisa di perdebatkan karena saya sendiri juga tidak mencatat pemakaian listrik selama 3 bulan terakhir. alhasil setelah 3 bulan maka tagihan pun menumpuk .. seperti perhitungan diatas, sampai <strong>348.009</strong>. Padahal pemaikan perbulan mungkin sekitar Rp. 100.000</p>
 
 <p>Untuk menghindari hal diatas, maka sebaiknya kita mencatat pemakaian listrik dan memajang informasi tersebut di tempat yang dapat dilihat oleh petugas pencatatan listrik. Jika di kawasan Cigadung, petugas tersebut biasa datang pada tanggal 26-28 setiap bulannya. Adabaiknya sebelum petugas tersebut datang kita memasang informasi Listrik (dan juga air) dalam papan yang dapat dilihat dengan mudah oleh petugas tersebut. Papan ini juga dapat di beli di supermarket. Untuk papan yang kualitas cukup bagus harganya berkisar antara 20 sampai 40 ribu rupiah</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2010/12/bni-itb-virtual-account-2/">BNI ITB Virtual Account BNI ITB Virtual Account Untuk Pembayaran SPP Dll</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2010-12-29T08:52:42+01:00" pubdate data-updated="true">29 Dec 2010</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Untuk pembayaran biaya SPP ITB, Biaya wisuda dll bisa melalui rekening virtual BNI.</p>
+  <entry>
+    <title type="html"><![CDATA[BNI ITB virtual account BNI ITB virtual account untuk pembayaran SPP dll]]></title>
+    <link href="http://yulrizka.github.com/blog/2010/12/bni-itb-virtual-account-2/"/>
+    <updated>2010-12-29T08:52:42+01:00</updated>
+    <id>http://yulrizka.github.com/blog/2010/12/bni-itb-virtual-account-2</id>
+    <content type="html"><![CDATA[<p>Untuk pembayaran biaya SPP ITB, Biaya wisuda dll bisa melalui rekening virtual BNI.</p>
 
 <p>Barusan berjalan di koridor gedung ITB, ada beberapa standing banner yang menginformasikan adanya virtual account untuk melakukan pembayaran</p>
 
@@ -320,128 +206,7 @@
 <li><p><a href="http://ditkeu.itb.ac.id/files/web/2fe5a2_Peng%20BPP%20SEM%20II%2020102011.pdf">Pengumuman dirdik</a></p></li>
 </ol>
 
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  <div class="pagination">
-    
-    <a href="/blog/blog/archives">Blog Archives</a>
-    
-  </div>
-</div>
-<aside class="sidebar">
-  
-    <section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/2011/01/biaya-perhitungan-listrik-2010/">Biaya perhitungan listrik 2010</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2010/12/bni-itb-virtual-account-2/">BNI ITB virtual account BNI ITB virtual account untuk pembayaran SPP dll</a>
-      </li>
-    
-  </ul>
-</section>
-
-
-<section>
-  <h1>Latest Tweets</h1>
-  <ul id="tweets">
-    <li class="loading">Status updating&#8230;</li>
-  </ul>
-  <script type="text/javascript">
-    $.domReady(function(){
-      getTwitterFeed("yulrizka", 4, false);
-    });
-  </script>
-  <script src="/blog/javascripts/twitter.js" type="text/javascript"> </script>
-  
-    <a href="http://twitter.com/yulrizka" class="twitter-follow-button" data-show-count="false">Follow @yulrizka</a>
-  
-</section>
-
-
-
-<section class="googleplus">
-  <h1>
-    <a href="https://plus.google.com/105203567168824306369?rel=author">
-      <img src="http://www.google.com/images/icons/ui/gprofile_button-32.png" width="32" height="32">
-      Google+
-    </a>
-  </h1>
-</section>
-
-
-
-  
-</aside>
-
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2012 - Ahmy yulrizka -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
-
-</footer>
-  
-
-<script type="text/javascript">
-      var disqus_shortname = 'blogyulrizka';
-      
-        
-        var disqus_script = 'count.js';
-      
-    (function () {
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    }());
-</script>
-
-
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) {return;}
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-
-
-  <script type="text/javascript">
-    (function() {
-      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
-      script.src = 'https://apis.google.com/js/plusone.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
-    })();
-  </script>
-
-
-
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-  </script>
-
-
-
-
-
-</body>
-</html>
+</feed>
