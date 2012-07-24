@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[yulrizka]]></title>
-  <link href="http://yulrizka.github.com/blog/atom.xml" rel="self"/>
-  <link href="http://yulrizka.github.com/blog/"/>
-  <updated>2012-07-24T02:04:45+02:00</updated>
-  <id>http://yulrizka.github.com/blog/</id>
+  <link href="http://ahmy.yulrizka.com/atom.xml" rel="self"/>
+  <link href="http://ahmy.yulrizka.com/"/>
+  <updated>2012-07-24T02:06:22+02:00</updated>
+  <id>http://ahmy.yulrizka.com/</id>
   <author>
     <name><![CDATA[Ahmy yulrizka]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Biaya perhitungan listrik 2010]]></title>
-    <link href="http://yulrizka.github.com/blog/2011/01/biaya-perhitungan-listrik-2010/"/>
+    <link href="http://ahmy.yulrizka.com/2011/01/biaya-perhitungan-listrik-2010/"/>
     <updated>2011-01-08T05:58:17+01:00</updated>
-    <id>http://yulrizka.github.com/blog/2011/01/biaya-perhitungan-listrik-2010</id>
+    <id>http://ahmy.yulrizka.com/2011/01/biaya-perhitungan-listrik-2010</id>
     <content type="html"><![CDATA[<p>Barusan saya kaget melihat tagihan listrik yang cukup. Mulai juni 2010 kalau tidak salah terjadi perubahan dalam perhitungan penggunaan listrik. Sekarang tidak ada lagi biaya beban melainkan adanya biaya minimum.</p>
 
 <p>tabel perhitungan lengkap dapat dilihat <a href="http://www.pln.co.id/pro00/images/stories/TDL/Permen_ESDM_07_2010.pdf">disini</a></p>
@@ -68,9 +68,9 @@
   
   <entry>
     <title type="html"><![CDATA[BNI ITB virtual account BNI ITB virtual account untuk pembayaran SPP dll]]></title>
-    <link href="http://yulrizka.github.com/blog/2010/12/bni-itb-virtual-account-2/"/>
+    <link href="http://ahmy.yulrizka.com/2010/12/bni-itb-virtual-account-2/"/>
     <updated>2010-12-29T08:52:42+01:00</updated>
-    <id>http://yulrizka.github.com/blog/2010/12/bni-itb-virtual-account-2</id>
+    <id>http://ahmy.yulrizka.com/2010/12/bni-itb-virtual-account-2</id>
     <content type="html"><![CDATA[<p>Untuk pembayaran biaya SPP ITB, Biaya wisuda dll bisa melalui rekening virtual BNI.</p>
 
 <p>Barusan berjalan di koridor gedung ITB, ada beberapa standing banner yang menginformasikan adanya virtual account untuk melakukan pembayaran</p>
