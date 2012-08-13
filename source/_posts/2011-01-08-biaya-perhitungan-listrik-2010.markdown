@@ -3,7 +3,7 @@ comments: true
 date: 2011-01-08 04:58:17
 layout: post
 slug: biaya-perhitungan-listrik-2010
-title: Biaya perhitungan listrik 2010
+title: Biaya perhitungan listrik
 wordpress_id: 182
 ---
 
