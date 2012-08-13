@@ -9,7 +9,7 @@ wordpress_id: 182
 
 Barusan saya kaget melihat tagihan listrik yang cukup. Mulai juni 2010 kalau tidak salah terjadi perubahan dalam perhitungan penggunaan listrik. Sekarang tidak ada lagi biaya beban melainkan adanya biaya minimum.
 
-tabel perhitungan lengkap dapat dilihat [disini](http://www.pln.co.id/pro00/images/stories/TDL/Permen_ESDM_07_2010.pdf)
+tabel perhitungan lengkap dapat dilihat [disini](http://www.pln.co.id/dataweb/TTL%202010/perpres%20no%208%20tahun%202011.pdf)
 
 Biaya minimum itu ditetapkan untuk penggunaan rumah dengan rumus sebagai berikut
 
